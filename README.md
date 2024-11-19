@@ -1,7 +1,1 @@
-# PersonalCV
-
-
-My personal CV second version
-My personal CV first version
-third version hahah
-
+This is a personal portfolio website built with React to showcase my skills, experience, and projects as a software developer.

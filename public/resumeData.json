@@ -1,0 +1,100 @@
+{
+  "main": {
+    "name": "Xinrong Li",
+    "description": "Driven by curiosity and a passion for innovation, I am always passionate about my work and approach every challenge with a positive attitude",
+    "image": "profile.jpg",
+    "bio": "My name is Li Xinrong, and I graduated with a Master of Information Technology from Flinders University. During my studies, I developed a strong passion for both front-end and back-end development, honing my skills in creating efficient and user-friendly applications. With a strong foundation in both front-end and back-end technologies, I am eager to apply my knowledge in real-world projects and continue growing in the field of software development.",
+    "contactmessage": "Thank you for your feedback.",
+    "email": "xinrong1216@gmail.com",
+    "phone": "(61) 492940978",
+    "github": " https://github.com/xinrong789",
+    "project": "https://github.com/xinrong789",
+    "address": {
+      "line1": "City: Adelaide (available to work in any city)",
+      "line2": "Country: Australia"
+    },
+    "youtube": {
+      "english": {
+        "name": "David on Cloud",
+        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
+      },
+      "chinese": {
+        "name": "澳洲程序员大卫",
+        "url": "https://www.youtube.com/@aus-david"
+      }
+    },
+    "website": "http://cyberlark.com.au",
+    "resumedownload": "./images/resume.pdf",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "#",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/xinrong789",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "youtube-chinese",
+        "url": "#",
+        "className": "fa fa-youtube-square"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com",
+        "className": "fa fa-linkedin-square"
+      },
+      {
+        "name": "toutiao",
+        "url": "#",
+        "className": "fa fa-weibo"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Technical Skills",
+    "education": [
+      {
+        "school": "Flinders University",
+        "degree": "Master of IT",
+        "graduated": "2023.07-2025.07",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Cyberlark Studio",
+        "title": "Founder",
+        "years": "Augest 2005 - Present",
+        "description": "Our website was founded in August 2005, originally named D&M Studio. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Backend Development (Infrastructure, API, Database)",
+        "level": "95%"
+      },
+      {
+        "name": "Frontend Development (React, Angular)",
+        "level": "85%"
+      },
+      {
+        "name": "Embeded Software development (C/C++)",
+        "level": "80%"
+      },
+      {
+        "name": "Leadership & Management",
+        "level": "75%"
+      },
+      {
+        "name": "Passion & Eager to learn",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": []
+  }
+}
