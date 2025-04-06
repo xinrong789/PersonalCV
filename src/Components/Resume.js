@@ -28,14 +28,11 @@ class Resume extends Component {
       )
     })
 
-    const work = this.props.data.work.map(function (work) {
+    const work = this.props.data.project.map(function (work) {
       return (
-        <div key={work.company}>
-          <h3>{work.company}</h3>
-          <p className="info">
-            {work.title}
-            <span>&bull;</span> <em className="date">{work.years}</em>
-          </p>
+        <div key={work.name}>
+          <h3>{work.name}</h3>
+          <p className="info">{work.skills}</p>
           <p>{work.description}</p>
         </div>
       )
@@ -73,10 +70,10 @@ class Resume extends Component {
         </Slide>
 
         <Slide left duration={1300}>
-          <div className="row work">
+          <div id="projects" className="row project">
             <div className="three columns header-col">
               <h1>
-                <span>Work</span>
+                <span>Projects</span>
               </h1>
             </div>
 

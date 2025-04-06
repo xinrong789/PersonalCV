@@ -53,12 +53,12 @@
         "description": ""
       }
     ],
-    "work": [
+    "project": [
       {
-        "company": "Cyberlark Studio",
-        "title": "Founder",
-        "years": "Augest 2005 - Present",
-        "description": "Our website was founded in August 2005, originally named D&M Studio. "
+        "name": "Personal CV",
+        "skills": "HTML|CSS|JAVA SCRIPT|REACT",
+
+        "description": "This is a responsive personal website that showcases my resume, project experience, and technical skills, designed to showcase my professional background and development capabilities. "
       }
     ],
     "skills": [
