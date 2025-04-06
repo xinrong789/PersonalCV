@@ -13,17 +13,7 @@
       "line1": "City: Adelaide (available to work in any city)",
       "line2": "Country: Australia"
     },
-    "youtube": {
-      "english": {
-        "name": "David on Cloud",
-        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
-      },
-      "chinese": {
-        "name": "澳洲程序员大卫",
-        "url": "https://www.youtube.com/@aus-david"
-      }
-    },
-    "website": "http://cyberlark.com.au",
+
     "resumedownload": "./images/resume.pdf",
     "social": [
       {
@@ -73,15 +63,15 @@
     ],
     "skills": [
       {
-        "name": "Backend Development (Infrastructure, API, Database)",
+        "name": "Frontend Development ",
         "level": "95%"
       },
       {
-        "name": "Frontend Development (React, Angular)",
+        "name": "Backend Development",
         "level": "85%"
       },
       {
-        "name": "Embeded Software development (C/C++)",
+        "name": "DevOps Development",
         "level": "80%"
       },
       {
@@ -93,8 +83,5 @@
         "level": "100%"
       }
     ]
-  },
-  "portfolio": {
-    "projects": []
   }
 }
