@@ -1,9 +1,10 @@
 {
-  "name": "cyberlark",
+  "name": "personalcv",
   "version": "0.1.0",
   "private": true,
   "homepage": "./",
   "dependencies": {
+    "@emotion/react": "^11.14.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -21,13 +22,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "npm run build && gh-pages -d build",
-    
-  "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build"
-
+    "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build"
   },
   "eslintConfig": {
     "extends": [
@@ -50,5 +48,4 @@
   "devDependencies": {
     "chokidar": "^3.5.1"
   }
-
 }
