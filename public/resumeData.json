@@ -55,8 +55,13 @@
     ],
     "project": [
       {
+        "name": "What I Learned",
+        "skills": "HTML | CSS | React.js | Axios | Node.js | Express.js| RESTful API| MySQL",
+        "description": "A full-stack web application that allows users to log and manage their daily learning experiences."
+      },
+      {
         "name": "Personal CV",
-        "skills": "HTML|CSS|JAVA SCRIPT|REACT|JQUERY",
+        "skills": "HTML | CSS | Java Script | React.js | Jquery",
 
         "description": "This is a responsive personal website that showcases my resume, project experience, and technical skills, designed to showcase my professional background and development capabilities. "
       }
